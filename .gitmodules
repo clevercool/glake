@@ -1,3 +1,0 @@
-[submodule "DeepSpeedExamples"]
-	path = DeepSpeedExamples
-	url = git@github.com:clevercool/glake.git
